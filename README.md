@@ -23,7 +23,6 @@ Tokenized digital goods available on the internet, such as music and artwork, ca
 # Payment Gateway
 JCCoin is a payment gateway used to pay for products instead of cash on JCCoin Shopping Mall. We built tokens on Binance smart chain as a highly secure blockchain payment gateway, It offers low fees transaction
 
- Contact JCCoin (JCCOIN)
 
 ⭕ Website: https://www.jccoin.io
 
